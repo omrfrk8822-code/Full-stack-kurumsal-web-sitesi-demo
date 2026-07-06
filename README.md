@@ -178,4 +178,5 @@ curl http://localhost:5051/api/iletisim
 
 ---
 
-*Bu proje bir demo / kendini kanıtlama projesidir.*
+*Bu proje bir demo / kendini kanıtlama projesidir.*  
+*İçerisindeki firma adı, adres, telefon ve e-posta bilgileri tamamen kurgusaldır, gerçek bir kuruluşa ait değildir.*
