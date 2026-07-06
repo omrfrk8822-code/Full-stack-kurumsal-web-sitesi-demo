@@ -11,3 +11,4 @@ backend/iletisim.db
 # Sistem
 .DS_Store
 *.env
+frontend/public/gorseller/
